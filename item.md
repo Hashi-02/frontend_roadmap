@@ -16,6 +16,7 @@
   - CSS の文法
   - CSS セレクター
   - CSSによるレイアウトの作り方（参考：CSS Layout ＞ patterns > LAYOUT）
+
 - 11月
 - JavaScript
   - JavaScript の文法（参考：JavaScript Primer ＞基本文法）
